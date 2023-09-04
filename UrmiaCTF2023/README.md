@@ -7,7 +7,7 @@
 ### Index
 
 - [Reverse](./rev)
-  - [VerySuperMario](Reverse/VerySuperMario)
+  - [VerySuperMario](./rev/ver-super-mario)
 - [Misc](./misc)
   - [Appellations](./appellations)
   - [Insider's Secret](./insiders-secret)
