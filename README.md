@@ -1,8 +1,7 @@
-# Urmia CTF 2023 Writeups
+# CTF Writeups
 
-> A student-led cybersecurity competition organized by Urmia University and Urmia University of Technology. Our goal is to provide an engaging and challenging platform for students to test their skills and knowledge in cybersecurity.
+> Writeups for various CTF's i've participated in.
 
-[https://ctfd.uctf.ir/](https://ctfd.uctf.ir/)
+### UrumiaCTF 2023](./UrumiaCTF 2023)
 
-### Index
 
