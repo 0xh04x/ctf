@@ -17,6 +17,9 @@ This CTF is geared more towards university students, but anyone may compete!
  * #### [Dorna](<stego/dorna/>)
 
 ## Writeups of my Team:
+<p align="center">
+  <img  src=./team.png>
+</p>
 
 ## [Writeups from my team](https://github.com/ResetSec/UrmiaCTF/blob/main/README.md)
 
