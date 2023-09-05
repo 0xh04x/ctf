@@ -18,5 +18,7 @@ This CTF is geared more towards university students, but anyone may compete!
 
 ## Writeups of my Team:
 ![](./team.png)
-[Team Writeups](https://github.com/ResetSec/UrmiaCTF/blob/main/README.md)
+
+
+## [Team Writeups](https://github.com/ResetSec/UrmiaCTF/blob/main/README.md)
 
