@@ -18,8 +18,8 @@ This CTF is geared more towards university students, but anyone may compete!
 
 ## Writeups of my Team:
 <p align="center">
-  ![]()
-</p>./team.png
+  ![](./team.png)
+</p>
 <p align="center">
   #### [Team Writeups](https://github.com/ResetSec/UrmiaCTF/blob/main/README.md)
 </p>
