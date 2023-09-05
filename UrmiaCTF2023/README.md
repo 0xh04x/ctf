@@ -23,5 +23,5 @@ This CTF is geared more towards university students, but anyone may compete!
 </p>
 
 <p align="center">
-[Team Writeups](https://github.com/ResetSec/UrmiaCTF/blob/main/README.md)
+[Team Writeups](<https://github.com/ResetSec/UrmiaCTF/blob/main/README.md>)
 </p>
