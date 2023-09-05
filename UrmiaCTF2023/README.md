@@ -20,6 +20,6 @@ This CTF is geared more towards university students, but anyone may compete!
 <p align="center">
   ![]()
 </p>./team.png
-
-## [Writeups from my team](https://github.com/ResetSec/UrmiaCTF/blob/main/README.md)
-
+<p align="center">
+  #### [Team Writeups](https://github.com/ResetSec/UrmiaCTF/blob/main/README.md)
+</p>
