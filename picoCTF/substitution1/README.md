@@ -2,7 +2,7 @@
 
 by h04x
 
-### Challenge Description 
+## Challenge Description 
 
 ![](./description.png)
 
@@ -10,7 +10,7 @@ Needed File:
 
 [message.txt](./message.txt)
 
-#### Looking at the file 
+## Looking at the file 
 
 Looking at the file displays this:
 
@@ -18,7 +18,7 @@ Looking at the file displays this:
 
 This time we don't have a string of letters we could use but we could just try a frequency attack! 
  
-#### Getting the Flag
+## Getting the Flag
 
 Using [this](https://www.guballa.de/substitution-solver) online tool we decode the message and get our flag:
 
