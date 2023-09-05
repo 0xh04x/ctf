@@ -1,15 +1,18 @@
-# Urmia CTF 2023 Writeups
+# Urmia CTF 2023
 
-> A student-led cybersecurity competition organized by Urmia University and Urmia University of Technology. Our goal is to provide an engaging and challenging platform for students to test their skills and knowledge in cybersecurity.
+https://ctftime.org/event/2067/
 
-[https://ctfd.uctf.ir/](https://ctfd.uctf.ir/)
+## Event Description
 
-### Index
+Urmia CTF (UCTF) is a student-led cybersecurity competition organized by Urmia University and Urmia University of Technology.
+This CTF is geared more towards university students, but anyone may compete!
 
-- [Reverse](./rev)
-  - [VerySuperMario](./rev/very-super-mario)
-- [Misc](./misc)
-  - [Appellations](./misc/appellations)
-  - [Insider's Secret](./misc/insiders-secret)
-- [Stego](./stego)
-  - [Dorna](./stego/dorna)
+
+## [Misc](<Misc>)
+ * #### [Appellations](<misc/appellations/>)
+ * #### [Insider's-secret](<misc/insiders-secret/>)
+## [Reverse](<Reverse>)
+ * #### [VerySuperMario](<rev/very-super-mario/>)
+## [Steganography](<stego>)
+ * #### [Dorna](<stego/dorna/>)
+
