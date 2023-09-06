@@ -30,48 +30,45 @@ after that it start a new function called check_key which is probably the one we
 
 The function just checks if the first part of our input matches the static license key and then after that the dynamic part gets checked:
 
-        if key[i] != hashlib.sha256(username_trial).hexdigest()[4]:
+```
+if key[i] != hashlib.sha256(username_trial).hexdigest()[4]:
             return False
         else:
             i += 1
 
-        if key[i] != hashlib.sha256(username_trial).hexdigest()[5]:
-            return False
-        else:
-            i += 1
+if key[i] != hashlib.sha256(username_trial).hexdigest()[5]:
+        return False
+else:
+        i += 1
 
-        if key[i] != hashlib.sha256(username_trial).hexdigest()[3]:
-            return False
-        else:
-            i += 1
+if key[i] != hashlib.sha256(username_trial).hexdigest()[3]:
+        return False
+else:
+        i += 1
 
-        if key[i] != hashlib.sha256(username_trial).hexdigest()[6]:
-            return False
-        else:
-            i += 1
+if key[i] != hashlib.sha256(username_trial).hexdigest()[6]:
+        return False
+else:
+        i += 1
 
-        if key[i] != hashlib.sha256(username_trial).hexdigest()[2]:
-            return False
-        else:
-            i += 1
+if key[i] != hashlib.sha256(username_trial).hexdigest()[2]:
+        return False
+else:
+        i += 1
 
-        if key[i] != hashlib.sha256(username_trial).hexdigest()[7]:
-            return False
-        else:
-            i += 1
+if key[i] != hashlib.sha256(username_trial).hexdigest()[7]:
+        return False
+else:
+        i += 1
 
-        if key[i] != hashlib.sha256(username_trial).hexdigest()[1]:
-            return False
-        else:
-            i += 1
+if key[i] != hashlib.sha256(username_trial).hexdigest()[1]:
+        return False
+ else:
+        i += 1
 
-        if key[i] != hashlib.sha256(username_trial).hexdigest()[8]:
-            return False
-
-
-
-        return True
-
+if key[i] != hashlib.sha256(username_trial).hexdigest()[8]:
+        return False
+```
 The function basically checks every character after the first static key part one by one and compares it to something, after that it checks the next character and so on.
 
 Now we have to look at what values get compared to our input:
