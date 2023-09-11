@@ -5,7 +5,7 @@
 ![](./description.png)
 
 Downloadable file:
-[capybara.jpeg](./cypybara.jpeg)
+[capybara.jpeg](./capybara.jpeg)
 
 #### Analyzing the Files
 
