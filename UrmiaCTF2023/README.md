@@ -9,12 +9,12 @@ This CTF is geared more towards university students, but anyone may compete!
 
 
 ## [Misc](./misc)
- * #### [Appellations](<misc/appellations/>)
- * #### [Insider's-secret](<misc/insiders-secret/>)
-## [Reverse](<Reverse>)
- * #### [VerySuperMario](<rev/very-super-mario/>)
-## [Steganography](<stego>)
- * #### [Dorna](<stego/dorna/>)
+ * #### [Appellations](./misc/appelations)
+ * #### [Insider's-secret](./misc/insiders-secret)
+## [Reverse](./rev)
+ * #### [VerySuperMario](./rev/very-super-mario)
+## [Steganography](./stego)
+ * #### [Dorna](./stego/dorna)
 
 ## Writeups of my Team:
 ![](./team.png)
