@@ -19,6 +19,6 @@ Thank you to our sponsors! - CACI, Mason Volgenau School of Engineering
  * #### [Multi-Numeral](./Crypto/Multi-numeral)
  * #### [My Phone!](./Crypto/My%20Phone!)
 ## [OSINT](./OSINT)
- * #### [Bad Documentation](./Bad Documentation)
+ * #### [Bad Documentation](./OSINT/Bad%20Documentation)
 ## [Forensics](./Forensics)
  * #### [Capybara](./Forensics/Capybara)
