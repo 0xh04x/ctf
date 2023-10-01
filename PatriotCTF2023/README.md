@@ -10,6 +10,9 @@ Challenges include: Web, Reverse Engineering, PWN, Cryptography, Forensics, OSIN
 Thank you to our sponsors! - CACI, Mason Volgenau School of Engineering
 
 
+![](./cert.png)
+
+
 ## [Misc](./Misc)
  * #### [Flag Finder](./Misc/Flag%20Finder)
  * #### [Twins](./Misc/Twins)
