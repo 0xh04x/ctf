@@ -8,6 +8,9 @@ Urmia CTF (UCTF) is a student-led cybersecurity competition organized by Urmia U
 This CTF is geared more towards university students, but anyone may compete!
 
 
+![](team.png)
+
+
 ## [Misc](./misc)
  * #### [Appellations](./misc/appelations)
  * #### [Insider's-secret](./misc/insiders-secret)
@@ -17,7 +20,6 @@ This CTF is geared more towards university students, but anyone may compete!
  * #### [Dorna](./stego/dorna)
 
 ## Writeups of my Team:
-![](./team.png)
 
 [Team Writeups](https://github.com/ResetSec/UrmiaCTF/blob/main/README.md)
 
