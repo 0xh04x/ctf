@@ -46,6 +46,6 @@ Just looking through all the directorys i find an interesting part in the res/im
 
 One of the pictures has the flag on it!
 
-[](./flag.png)
+![](./flag.png)
 
 `FLAG: bctf{gr33n_r0b0t_ph0N3}`
