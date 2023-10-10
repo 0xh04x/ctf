@@ -1,6 +1,6 @@
 # SunshineCTF 2023
 
-(https://ctftime.org/event/2079
+https://ctftime.org/event/2079
 
 ## Event Description
 
@@ -17,6 +17,7 @@ See our website for the most accurate and up to date information!
  * #### [DDR](./Scripting/DDR)
 ## [Web](./Web)
  * #### [Hotdog Stand](./Web/Hotdog%20Stand)
+ * #### [BeppBoop Blog](./Web/BeepBoop%20Blog)
 
 ## Writeups of my Team:
 
