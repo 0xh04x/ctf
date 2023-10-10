@@ -6,4 +6,5 @@
 ### [PicoCTF](./picoCTF)
 ### [PatriotCTF 2023](./PatriotCTF2023)
 ### [BuckeyeCTF 2023](./BuckeyeCTF2023)
+### [SunshineCTF 2023](./SunshineCTF2023)
 
