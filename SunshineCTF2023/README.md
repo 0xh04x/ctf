@@ -19,7 +19,3 @@ See our website for the most accurate and up to date information!
  * #### [Hotdog Stand](./Web/Hotdog%20Stand)
  * #### [BeppBoop Blog](./Web/BeepBoop%20Blog)
 
-## Writeups of my Team:
-
-[Team Writeups](https://github.com/ResetSec/UrmiaCTF/blob/main/README.md)
-
